@@ -1,0 +1,26 @@
+#main{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: black;
+    height: 75px;
+    align-items: center;
+    color: white;
+}
+#nav{
+    display: flex;
+    width: 600px;
+    justify-content: space-evenly;
+    font-size: 30px;
+}
+
+#content{
+    color: white;
+}
+li{
+    list-style: none;
+}
+#logo{
+    color: white;
+    padding-left: 10px;
+}
